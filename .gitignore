@@ -1,0 +1,5 @@
+/.idea/
+/build/
+/dist/
+/svc_tracer.egg-info/
+__pycache__
