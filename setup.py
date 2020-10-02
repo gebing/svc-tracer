@@ -47,7 +47,7 @@ setup(
   author='gebing',
   author_email='gebing@foxmail.com',
   packages=find_packages(),
-  scripts=['svc-tracer.py'],
+  scripts=['svc-tracer'],
   include_package_data=True,
   platforms = "any",
   install_requires=[

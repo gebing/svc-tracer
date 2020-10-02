@@ -1,4 +1,4 @@
-#!C:\Python27\python.exe
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 from svc_tracer.tracer import main
 
